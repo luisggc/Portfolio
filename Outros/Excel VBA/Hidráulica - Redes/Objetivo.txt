@@ -1,0 +1,2 @@
+Cálculo de redes ramificadas e malhadas com base em um sistema dado ou independente.
+Além disso, possui memória de todos os cálculos que será salvo no Desktop.

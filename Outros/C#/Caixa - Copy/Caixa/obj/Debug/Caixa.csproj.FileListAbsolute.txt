@@ -1,0 +1,23 @@
+C:\Users\Luis\Desktop\Programação\Caixa\Caixa\Caixa\bin\Debug\Caixa.exe.config
+C:\Users\Luis\Desktop\Programação\Caixa\Caixa\Caixa\bin\Debug\Caixa.exe
+C:\Users\Luis\Desktop\Programação\Caixa\Caixa\Caixa\bin\Debug\Caixa.pdb
+C:\Users\Luis\Desktop\Programação\Caixa\Caixa\Caixa\obj\Debug\Caixa.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\Programação\Caixa\Caixa\Caixa\obj\Debug\Caixa.Form1.resources
+C:\Users\Luis\Desktop\Programação\Caixa\Caixa\Caixa\obj\Debug\Caixa.Properties.Resources.resources
+C:\Users\Luis\Desktop\Programação\Caixa\Caixa\Caixa\obj\Debug\Caixa.csproj.GenerateResource.Cache
+C:\Users\Luis\Desktop\Programação\Caixa\Caixa\Caixa\obj\Debug\Caixa.exe
+C:\Users\Luis\Desktop\Programação\Caixa\Caixa\Caixa\obj\Debug\Caixa.pdb
+C:\Users\Luis\Desktop\Programação\Caixa\Caixa\Caixa\bin\Debug\MySql.Data.dll
+C:\Users\Luis\Desktop\Programação\Caixa\Caixa\Caixa\bin\Debug\MySql.Data.xml
+C:\Users\Luis\Desktop\Programação\Caixa\Caixa\Caixa\bin\Debug\yo\Caixa.resources.dll
+C:\Users\Luis\Desktop\Programação\Caixa\Caixa\Caixa\obj\Debug\Caixa.Form1.yo.resources
+C:\Users\Luis\Desktop\Programação\Caixa\Caixa\Caixa\obj\Debug\yo\Caixa.resources.dll
+C:\Users\Luis\Desktop\Programação\Caixa\Caixa\Caixa\obj\Debug\Caixa.Word.resources
+C:\Users\Luis\Desktop\Programação\Caixa\Caixa\Caixa\bin\Debug\DocX.dll
+C:\Users\Luis\Desktop\Programação\Caixa\Caixa\Caixa\obj\Debug\Caixa.padroes.resources
+C:\Users\Luis\Desktop\Programação\Caixa\Caixa\Caixa\bin\Debug\db_substituir.mdf
+C:\Users\Luis\Desktop\Programação\Caixa\Caixa\Caixa\bin\Debug\db_substituir_log.ldf
+C:\Users\Luis\Desktop\Programação\Caixa\Caixa\Caixa\obj\Debug\Caixa.Form_nomes.resources
+C:\Users\Luis\Desktop\Programação\substituidor\Caixa - Copy\Caixa\bin\Debug\Caixa.exe.config
+C:\Users\Luis\Desktop\Programação\substituidor\Caixa - Copy\Caixa\obj\Debug\Caixa.exe
+C:\Users\Luis\Desktop\Programação\substituidor\Caixa - Copy\Caixa\obj\Debug\Caixa.pdb

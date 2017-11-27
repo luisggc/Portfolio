@@ -1,0 +1,11 @@
+Sites criados administrados/criados:
+
+Reais:
+Aluno online+ : ao.sossegai.com
+Marcia Contablidade : mcoimbracontabil.com.br
+Sossegai: sossegai.com
+
+Fictícios:
+Fórum: forum.sossegai.com
+Megafone: megafone.sossegai.com
+Vendas: vendas.sossegai.com
